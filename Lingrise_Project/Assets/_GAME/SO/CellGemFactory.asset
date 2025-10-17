@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf5893ee0cd2a4a62ae9db1908b10c94, type: 3}
+  m_Name: CellGemFactory
+  m_EditorClassIdentifier: 
+  cellGemPf: {fileID: 7658184920603033829, guid: fa568460360564bfcb1f9e750772e3f0, type: 3}
+  cellGemMappings:
+  - gemType: 1
+    visuals:
+    - {fileID: 1717875620, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -999283193, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 342986806, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -356583849, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -2101071509, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    attackBehaviour: {fileID: 0}
+  - gemType: 10
+    visuals:
+    - {fileID: 1687054732, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -1070867151, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 300617750, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 404132573, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -1304569021, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    attackBehaviour: {fileID: 0}
+  - gemType: 11
+    visuals:
+    - {fileID: -1917878853, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 363746453, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -1298106013, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -670565489, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 311115888, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    attackBehaviour: {fileID: 0}
+  - gemType: 12
+    visuals:
+    - {fileID: 182930728, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 53142071, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -2070201262, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 629488066, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -921143057, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    attackBehaviour: {fileID: 0}
+  - gemType: 13
+    visuals:
+    - {fileID: 1973707290, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -1998651497, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -476143777, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: 1020388473, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    - {fileID: -606797704, guid: e63ced096d3784dee93569ff779d4f3d, type: 3}
+    attackBehaviour: {fileID: 0}
