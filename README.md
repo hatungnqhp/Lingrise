@@ -20,4 +20,4 @@ at Posts and Telecommunications Institute of Technology (PTIT), Hanoi, Vietnam.
 ---
 
 ## Play the game
-[Protype]()
+[Protype](https://drive.google.com/drive/folders/1BVwh9EB15OTu1y1glaNzGn8py-ZXuFto?usp=share_link)
