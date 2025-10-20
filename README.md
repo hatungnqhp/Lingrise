@@ -19,5 +19,10 @@ at Posts and Telecommunications Institute of Technology (PTIT), Hanoi, Vietnam.
 
 ---
 
+## Preview
+[Video demo](https://drive.google.com/file/d/1FKhuKT8D68IAIneu_f6x7gvPdZYMimNU/view?usp=share_link)
+
+---
+
 ## Play the game
 [Protype](https://drive.google.com/drive/folders/1BVwh9EB15OTu1y1glaNzGn8py-ZXuFto?usp=share_link)
